@@ -4,5 +4,3 @@ transformers
 datasets
 pyngrok
 Pillow
-FastAPI
-
