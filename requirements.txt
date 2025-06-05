@@ -1,6 +1,9 @@
+fastapi
+uvicorn
 streamlit
-torch
-transformers
-datasets
-pyngrok
-Pillow
+opencv-python-headless
+pillow
+numpy
+requests
+pydantic
+python-multipart
