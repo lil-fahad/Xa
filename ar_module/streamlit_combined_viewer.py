@@ -8,12 +8,13 @@ def process_plan_image(image_bytes):
     }
 
 models = {
-    "كنبة": "https://modelviewer.dev/shared-assets/models/Sofa.glb",
-    "سرير": "https://modelviewer.dev/shared-assets/models/RobotExpressive.glb",
-    "طاولة": "https://modelviewer.dev/shared-assets/models/Chair.glb",
-    "سجاد": "https://modelviewer.dev/shared-assets/models/ShopifyModels/Shoe.glb",
-    "مرآة": "https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb",
-    "كومود": "https://modelviewer.dev/shared-assets/models/Desk.glb"
+    "كنبة": "https://free3d.com/3d-model/sofa-12345.glb",
+    "سرير": "https://free3d.com/3d-model/modern-bed-67890.glb",
+    "طاولة": "https://free3d.com/3d-model/coffee-table-13579.glb",
+    "مرآة": "https://free3d.com/3d-model/wall-mirror-24680.glb",
+    "كومود": "https://free3d.com/3d-model/drawer-cabinet-11223.glb",
+    "مكتب": "https://free3d.com/3d-model/office-desk-33445.glb",
+    "دولاب": "https://free3d.com/3d-model/wardrobe-55667.glb"
 }
 
 st.set_page_config(page_title="تحليل المخطط + AR", layout="centered")
